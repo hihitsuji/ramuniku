@@ -24,3 +24,10 @@
 /dialogue.tab
 /dialogue.txt
 /strings.json
+
+# Ren'Py build / cache
+**/cache/
+**/*.rpyc
+**/log.txt
+**/saves/
+
